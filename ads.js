@@ -1,1 +1,1 @@
-isOnAdBlocker = false;
+var isOnAdBlocker = false;
